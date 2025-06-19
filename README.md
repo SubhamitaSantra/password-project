@@ -35,5 +35,3 @@ This is a beginner-friendly cybersecurity tool built in Python to help users:
 - Standard I/O and file handling  
 
 ---
-
-## 📂 Project Structure
